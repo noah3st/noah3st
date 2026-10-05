@@ -9,7 +9,7 @@ I'm a Computer Science and Software Engineering student at Maynooth University, 
 - 🥗 Macro Tracker:a web app to log foods and hit daily macro goals (React,Node.js,SQL)
 - ☕ Elevating my Java skills
 - 💻 Learning C++ this semester
-- 
+  
 ## 📫 How to reach me
 
 - LinkedIn:www.linkedin.com/in/noah-staselis-b80612339
